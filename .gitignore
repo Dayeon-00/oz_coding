@@ -1,1 +1,9 @@
 .DS_Store
+.idea
+inspectionProfiles
+misc.xml
+prdfiles_settings.xml
+modules.xml
+oz_coding.xml
+vcs.xml
+workspace.xml
