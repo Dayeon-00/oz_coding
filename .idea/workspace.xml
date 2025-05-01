@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0ae0f9-ad11-4883-befa-817485837c94" name="변경" comment="" />
+    <list default="true" id="1c0ae0f9-ad11-4883-befa-817485837c94" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/2일차/필수과제/Chapter0508_과제.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python/2일차/필수과제/Chapter0508_과제.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/3일차/필수과제/Chaper0913_task.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python/3일차/필수과제/Chaper0913_task.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2w9eoqmQZckFGg7CTBD3kbwNDdY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,6 +37,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -52,6 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1745458394387</updated>
       <workItem from="1745458395436" duration="7197000" />
+      <workItem from="1745638343378" duration="13204000" />
+      <workItem from="1745653086136" duration="60693000" />
     </task>
     <servers />
   </component>
