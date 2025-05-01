@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c0ae0f9-ad11-4883-befa-817485837c94" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/2일차/필수과제/Chapter0508_과제.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python/2일차/필수과제/Chapter0508_과제.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/3일차/필수과제/Chaper0913_task.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python/3일차/필수과제/Chaper0913_task.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_chal/5일차/Chapter1720_task.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python_chal/5일차/Chapter1720_task.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
       <updated>1745458394387</updated>
       <workItem from="1745458395436" duration="7197000" />
       <workItem from="1745638343378" duration="13204000" />
-      <workItem from="1745653086136" duration="60693000" />
+      <workItem from="1745653086136" duration="65824000" />
     </task>
     <servers />
   </component>
