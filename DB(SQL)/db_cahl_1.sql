@@ -1,0 +1,8 @@
+USE testdatabase;
+CREATE USER 'username'@'localhost' IDENTIFIED BY '1234';
+GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost';
+CREATE TABLE user (user_id INT PRIMARY KEY AUTO_INCREMENT);
+CREATE TABLE orders (order_id INT PRIMARY KEY AUTO_INCREMENT);
+CREATE TABLE inventory (item_id INT PRIMARY KEY AUTO_INCREMENT);
+CREATE TABLE sales (sale_id INT PRIMARY KEY AUTO_INCREMENT);
+CREATE TABLE daliy_sales (date DATE PRIMARY KEY, total_sales DECIMAL(10, 2) NOT NULL);
