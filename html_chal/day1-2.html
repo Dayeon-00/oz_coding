@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <meta name="keword" content="HTML 과제"
+    <title>설문조사 양식</title>
+</head>
+<body>
+<header>
+        <h1>설문조사 양식</h1>
+        <p>모든 항목에 빠짐없이 체크해주십시오.</p>
+        <h2>설문 내용</h2>
+    <ol>
+        <li>연령대</li>
+        <li>이름</li>
+        <li>선호하는 색깔</li>
+        <li>지역</li>
+    </ol>
+        <h3>설문조사를 하지 않을시 불이익을 볼 수 있습니다.</h3>
+        <p>당신이 얻을 불이익</p>
+        <ul>
+            <li>누리의 귀여운 사진을 보지 못함</li>
+            <li>누리의 귀여운 애교를 보지 못함</li>
+            <li>보미가 당신을 때릴것임</li>
+        </ul>
+    </header>
+    <hr>
+    <main>
+        <form>
+        <fieldset>
+            <legend>개인정보</legend>
+            <label for="name">이름</label>
+            <input type="text" 
+            name="name"      
+            id="name" placeholder="본인의 이름을 기입하세요.">
+            <br>
+            <label for="email">이메일</label>
+            <input type="email"
+            name="email"
+            id="email" placeholder="메일 주소를 기입하세요">
+            <p>지역</p>
+            <select>
+                <option value="seoul">서울</option>
+                <option value="busan">부산</option>
+                <option value="incheon">인천</option>
+                <option value="jeju">대구</option>
+                <option value="jeju">제주</option>
+            </select>
+
+            </fieldset>
+            <fieldset>
+                <legend>설문</legend>
+
+                <p>연령대가 어떻게 되십니까?</p>
+                <input type="radio" id="teen" name="age">
+                <label for="teen">10대</label>
+                <input type="radio" id="twenty" name="age">
+                <label for="twenty">20대</label>
+                <input type="radio" id="thirty" name="age">
+                <label for="thirty">30대</label>
+                <input type="radio" id="fourty" name="age">
+                <label for="fourty">40대</label>
+                <input type="radio" id="fifty" name="age">
+                <label for="fifty">50대</label>
+                <input type="radio" id="order" name="age">
+                <label for="order">그 외</label>
+
+                <table border="1">
+                    <tr>
+                        <th>빨강</th>
+                        <th>파랑</th>
+                        <th>초록</th>
+                        <th>보라</th>
+                        <th>노랑</th>
+                    </tr>
+                </table>
+                <p>선호하는 색깔</p>
+                <input type="checkbox" id="red" name="color">
+                <label for="red">빨강</label>
+                <input type="checkbox" id="blue" name="color">
+                <label for="blue">파랑</label>
+                <input type="checkbox" id="green" name="color">
+                <label for="green">초록</label>
+                <input type="checkbox" id="puple" name="color">
+                <label for="puple">보라</label>
+                <input type="checkbox" id="yellow" name="color">
+                <label for="yellow">노랑</label>
+
+            </fieldset>
+            <fieldset>
+                <legend>기타 의견</legend>
+                <textarea rows="3" cols="30" name="comment"></textarea>
+            </fieldset>
+            <input type="submit">
+        </form>
+    </main>
+    <hr>
+    <footer>
+        <a href=IMG_3903.JPG>귀여운 누리 보고가세요</a>
+        <p>응답해주셔서 감사합니다.</p>
+    </footer>
+</body>
+</html>
