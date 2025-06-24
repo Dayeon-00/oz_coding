@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "oz-backend-django"
+version = "0.1.0"
+description = "python django project"
+authors = ["Dayeon <0812dayeon@gmail.com>"]
+package-mode = false
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "^5.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
