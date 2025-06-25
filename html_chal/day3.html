@@ -2,23 +2,24 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatble" content="IE=">
-    <title>CSS 문서 사용하기</title>
-    <style>
-    p{
-        color: orange;
-    }
-</style>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"
+    <title>박스모델이란</title>
 </head>
+<style>
+    .area {
+        /*
+            % : 내가 속한 영역을 기준으로 백분율 계산
+            => 내가 속한 영역 관련 값이 있어야 적용 가능!
+        */
+        width: 50%;
+        height: 50%;
+
+    }
+
+</style>
 <body>
-<!-- 
-<link href="day2.css" rel="stylesheet"> -->
-<!--
-    인라인 스타일은 우선적으로 적용된다.
-    인라인 스타일이 아닌 경우, 나중에 쓰여진 선언문이 적용된다.
--->
-<p style="color: red;">ㅇ</p>
-<p>스타일 적용 실험: 색깔만 바꿔보자</p>
-<p>스타일 적용 실험: 색깔만 바꿥</p>
+    <h2>헌진영 - 흐린 기억 속의 그대</h2>
+    <p>안개빛 조명은 흐트러진 내 몸을 감싸고</p>
+    <p class="area">술에 취해 비틀거리는 내 모습 이제는 싫어</p>
 </body>
 </html>

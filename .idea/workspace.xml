@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c0ae0f9-ad11-4883-befa-817485837c94" name="변경" comment="과제">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_chal/day3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_chal/day3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +70,10 @@
       <workItem from="1745458395436" duration="7197000" />
       <workItem from="1745638343378" duration="13204000" />
       <workItem from="1745653086136" duration="122211000" />
+      <workItem from="1747725301454" duration="2437000" />
+      <workItem from="1748404345122" duration="9000" />
+      <workItem from="1750739359855" duration="1000" />
+      <workItem from="1750824084233" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="과제">
       <option name="closed" value="true" />
